@@ -4,14 +4,17 @@ Added some gameplay improvenents.
 
 Require Mods:
 
-CBA_A3 	Steam 	http://steamcommunity.com/sharedfiles/filedetails/?id=450814997
-task_force_radio 	Steam 	http://steamcommunity.com/sharedfiles/filedetails/?id=620019431
+CBA_A3 	
+http://steamcommunity.com/sharedfiles/filedetails/?id=450814997
+
+task_force_radio
+http://steamcommunity.com/sharedfiles/filedetails/?id=620019431
 
 Optional:
 
-RHSAFRF 	Steam 	http://steamcommunity.com/sharedfiles/filedetails/?id=843425103
-RHSGREF 	Steam 	http://steamcommunity.com/sharedfiles/filedetails/?id=843593391
-RHSUSAF 	Steam 	http://steamcommunity.com/sharedfiles/filedetails/?id=843577117
+RHSAFRF http://steamcommunity.com/sharedfiles/filedetails/?id=843425103
+RHSGREF http://steamcommunity.com/sharedfiles/filedetails/?id=843593391
+RHSUSAF http://steamcommunity.com/sharedfiles/filedetails/?id=843577117
 and other client sided mods..
 
 # Changes:

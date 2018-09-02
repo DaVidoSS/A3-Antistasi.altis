@@ -53,6 +53,10 @@ Require CBA for keybindings
 Default key is RCTLR + \
 
 7.
+<<<<<<< HEAD
 Action for creating camp fire.
 Player can create fireplace on certain surfaces, but only one at time.
 To create another one last one need to be removed first.
+=======
+Action create fireplace.
+>>>>>>> a875f826129f72a630fdf1ca1a2419a902a2274c

@@ -243,3 +243,4 @@ else
 	if (activeUSAF) then {[player] call RHSdress};
 	if (hayACE) then {[] call ACEpvpReDress};
 	};
+0 = [] execVM "Scripts\improvements\fireplace.sqf";

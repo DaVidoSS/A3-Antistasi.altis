@@ -17,7 +17,7 @@ vehNATOTrucks = ["LIB_OpelBlitz_Open_Y_Camo","LIB_OpelBlitz_Tent_Y_Camo"];
 vehNATOAmmoTruck = "LIB_OpelBlitz_Ammo";
 vehNATORepairTruck = "LIB_OpelBlitz_Parm";
 vehNATOLight = vehNATOLightArmed + vehNATOLightUnarmed;
-vehNATOAPC = ["LIB_SdKfz251_DLV","LIB_PzKpfwVI_E_1","LIB_SdKfz234_4_DLV","LIB_SdKfz234_3_DLV","LIB_SdKfz234_2_DLV"];
+vehNATOAPC = ["LIB_SdKfz251_DLV","LIB_SdKfz234_4_DLV","LIB_SdKfz234_3_DLV","LIB_SdKfz234_2_DLV"];
 vehNATOTank = "LIB_PzKpfwVI_B_tarn51d";
 vehNATOAA = "LIB_FlakPanzerIV_Wirbelwind";
 vehNATOAttack = vehNATOAPC + [vehNATOTank];
@@ -37,6 +37,7 @@ vehNATOMRLSMags = "LIB_20x_Shell_105L28_Gr39HlC";
 vehNATONormal = vehNATOLight + vehNATOTrucks + [vehNATOAmmoTruck,"LIB_OpelBlitz_Fuel","LIB_OpelBlitz_Ambulance", vehNATORepairTruck,"LIB_SdKfz_7"];
 vehNATOBike = "B_T_Quadbike_01_F";
 NATOFlag = "LIB_FlagCarrier_GER";
+NATOFlagTexture = "ww2\core_t\if_decals_t\german\flag_ger_co.paa";
 NATOAmmobox = "LIB_BasicAmmunitionBox_GER";
 //cfgNATOInf = (configfile >> "CfgGroups" >> "West" >> "BLU_T_F" >> "Infantry");///
 gruposNATOSentry = ["LIB_GER_Soldier3_base","LIB_GER_ober_rifleman"];//"B_T_InfSentry";//
@@ -49,7 +50,7 @@ NATOSquad = ["LIB_GER_unterofficer","LIB_GER_mgunner","LIB_GER_Soldier2_base","L
 NATOSpecOp = ["LIB_FSJ_NCO","LIB_FSJ_Mgunner","LIB_FSJ_Soldier_2","LIB_FSJ_AT_soldier","LIB_FSJ_Soldier_2","LIB_FSJ_sapper","LIB_FSJ_Sniper","LIB_FSJ_medic"];
 gruposNATOSquad = [NATOSquad,["LIB_GER_unterofficer","LIB_GER_mgunner","LIB_GER_smgunner","LIB_GER_AT_grenadier","LIB_GER_ober_rifleman","LIB_GER_sapper","LIB_GER_sapper_gefr","LIB_GER_medic"]]; //[NATOSquad,"B_T_InfSquad_Weapons"];///
 factionMachoMalos = "LIB_FSJ";
-squadLeaders pushBack "LIB_GER_unterofficer";
+
 
 soporteStaticNATOB = "not_supported";
 ATStaticNATOB = "not_supported";

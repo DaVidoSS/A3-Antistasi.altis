@@ -3,9 +3,11 @@ call compile preprocessFileLineNumbers "scripts\Init_UPSMON.sqf";
 
 //defendDrillAI = compile preProcessFileLineNumbers "AI\defendDrillAI.sqf";
 //isInRoof = compile preProcessFileLineNumbers "AI\buildings\isInRoof.sqf";
+useFlares = compile preProcessFileLineNumbers "AI\useFlares.sqf";
+garrisonReorg = compile preProcessFileLineNumbers "CREATE\garrisonReorg.sqf";
+enemyNearCheck = compile preProcessFileLineNumbers "REINF\enemyNearCheck.sqf";
 playerHasBeenPvPCheck = compile preProcessFileLineNumbers "playerHasBeenPvPCheck.sqf";
 remoteBattle = compile preProcessFileLineNumbers "CREATE\remoteBattle.sqf";
-spawnMissionGiver = compile preProcessFileLineNumbers "Missions\spawnMissionGiver.sqf";
 hideInBuilding = compile preProcessFileLineNumbers "AI\hideInBuilding.sqf";
 doFlank = compile preProcessFileLineNumbers "AI\doFlank.sqf";
 assaultBuilding = compile preProcessFileLineNumbers "AI\assaultBuilding.sqf";

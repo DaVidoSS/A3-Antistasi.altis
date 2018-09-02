@@ -51,3 +51,8 @@ Require CBA A3 for keybindings
 CHVD View and terrain adjustment by Champ-1.
 Require CBA for keybindings
 Default key is RCTLR + \
+
+7.
+Action for creating camp fire.
+Player can create fireplace on certain surfaces, but only one at time.
+To create another one last one need to be removed first.

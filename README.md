@@ -51,3 +51,6 @@ Require CBA A3 for keybindings
 CHVD View and terrain adjustment by Champ-1.
 Require CBA for keybindings
 Default key is RCTLR + \
+
+7.
+Action create fireplace.
